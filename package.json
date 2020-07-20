@@ -258,6 +258,11 @@
         "language": "jinja-systemd",
         "scopeName": "source.systemd.jinja",
         "path": "./syntaxes/jinja-systemd.tmLanguage.json"
+      },
+      {
+        "language": "jinja-hcl",
+        "scopeName": "source.hcl.jinja",
+        "path": "./syntaxes/jinja-hcl.tmLanguage.json"
       }
     ],
     "snippets": [
