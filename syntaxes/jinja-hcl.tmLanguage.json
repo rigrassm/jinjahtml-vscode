@@ -1,0 +1,13 @@
+{
+  "name": "jinja-hcl",
+  "scopeName": "source.hcl.jinja",
+  "comment": "Jinja HCL Templates",
+  "patterns": [
+    {
+      "include": "source.jinja"
+    },
+    {
+      "include": "source.hcl"
+    }
+  ]
+}
